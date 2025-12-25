@@ -1,0 +1,216 @@
+[
+  {
+    "name": "Apple iPhone 17 Pro",
+    "price": 1500,
+    "category": "Phones",
+    "img": "https://www.mobilecentre.am/img/prodpic/0d13f4ff5cb782c9c5e8New_Project_-_2025-09-19T105223.627.png",
+    "description": "\n  <strong>Display:</strong> 6.3-inch Super Retina XDR OLED<br>\n  <strong>Processor:</strong> A19 Bionic chip (3nm)<br>\n  <strong>Camera:</strong> 48MP Main, 48MP Ultra Wide, 48MP Telephoto (5x Optical Zoom)<br>\n  <strong>Battery:</strong> Up to 29 hours video playback<br>\n  <strong>Material:</strong> Grade 5 Titanium<br>\n  <strong>Radios:</strong> 5G, Wi-Fi 7, Bluetooth 5.4, NFC, Ultra Wideband 2"
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra",
+    "price": 1000,
+    "category": "Phones",
+    "img": "https://www.mobilecentre.am/img/prodpic/ed6f720b90d82108d29cNew_Project__1_.png",
+    "description": "\n  <strong>Display:</strong> 6.8-inch Dynamic AMOLED 2X, 120Hz<br>\n  <strong>Processor:</strong> Snapdragon 8 Gen 5 for Galaxy<br>\n  <strong>Camera:</strong> 200MP Main, 50MP Periscope, 50MP Ultra Wide<br>\n  <strong>Battery:</strong> 5000mAh, 45W charging<br>\n  <strong>S Pen:</strong> Built-in S Pen with 2.8ms latency<br>\n  <strong>Size:</strong> 162.3 x 79.0 x 8.6 mm"
+  },
+  {
+    "name": "Samsung Galaxy S25-",
+    "price": "900",
+    "category": "Phones",
+    "img": "https://www.mobilecentre.am/img/prodpic/6e069e97176168f2d850New_Project__9_.png",
+    "description": "\n  <strong>Display:</strong> 6.7-inch Dynamic AMOLED 2X, QHD+<br>\n  <strong>Processor:</strong> Exynos 2500 / Snapdragon 8 Gen 5<br>\n  <strong>Camera:</strong> 50MP Main, 12MP Ultra Wide, 10MP Telephoto<br>\n  <strong>Battery:</strong> 4900mAh, 45W charging<br>\n  <strong>Radios:</strong> 5G, Wi-Fi 6E/7, Bluetooth 5.3"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold 7",
+    "price": 1700,
+    "category": "Phones",
+    "img": "https://www.mobilecentre.am/img/prodpic/4b89c1e643a84220b346New_Project_-_2025-07-10T102415.751.png",
+    "description": "\n  <strong>Main Screen:</strong> 7.6-inch QXGA+ Dynamic AMOLED 2X<br>\n  <strong>Cover Screen:</strong> 6.2-inch HD+ Dynamic AMOLED 2X<br>\n  <strong>Hinge:</strong> Armor Aluminum, IPX8 water resistance<br>\n  <strong>Multitasking:</strong> Run up to 3 apps simultaneously<br>\n  <strong>Camera:</strong> Under-display camera (4MP), 50MP Rear Triple Cam"
+  },
+  {
+    "name": "Sony PlayStation 5 Slim",
+    "price": 700,
+    "category": "Console",
+    "img": "https://www.mobilecentre.am/img/prodpic/e95ab7ec01b41bb95ee1%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82__15_.png",
+    "description": "\n  <strong>Storage:</strong> 1TB Custom SSD<br>\n  <strong>Graphics:</strong> AMD Radeon RDNA 2-based engine, Ray Tracing<br>\n  <strong>Resolution:</strong> Up to 4K 120Hz, 8K Output support<br>\n  <strong>Dimensions:</strong> 358 x 96 x 216 mm (approx. 30% smaller)<br>\n  <strong>Controller:</strong> DualSense Wireless Controller included"
+  },
+  {
+    "name": "Apple Airpods 4 (MXP63)",
+    "price": 150,
+    "category": "Audio",
+    "img": "https://www.mobilecentre.am/img/prodpic/518bc216ce0742a8df2aNew_Project__23_.png",
+    "description": "\n  <strong>Audio:</strong> Personalized Spatial Audio with dynamic head tracking<br>\n  <strong>Chip:</strong> H2 headphone chip<br>\n  <strong>Battery:</strong> Up to 6 hours listening time, 30 hours with case<br>\n  <strong>Connectivity:</strong> Bluetooth 5.3<br>\n  <strong>Features:</strong> Adaptive EQ, Sweat and water resistant (IPX4)"
+  },
+  {
+    "name": "Google Pixel 10 Pro XL",
+    "price": 1200,
+    "category": "Phones",
+    "img": "https://www.att.com/scmsassets/global/devices/phones/google/google-pixel-10-pro-xl/defaultimage/obsidian-hero-zoom.png",
+    "description": "\n  <strong>Display:</strong> 6.9-inch Super Actua Display, LTPO OLED<br>\n  <strong>Processor:</strong> Google Tensor G5 (3nm custom silicon)<br>\n  <strong>Camera:</strong> 50MP Triple Camera System, AI Magic Editor<br>\n  <strong>Battery:</strong> 5500mAh, 45W charging<br>\n  <strong>AI:</strong> Gemini Nano integrated"
+  },
+  {
+    "name": "Xiaomi 15T Pro",
+    "price": 800,
+    "category": "Phones",
+    "img": "https://www.yerevanmobile.am/media/catalog/product/cache/07720dad39bc68bc6b838050c0f2e34d/q/q/qqeswqeqe32qe342425435.jpg",
+    "description": "\n  <strong>Display:</strong> 144Hz CrystalRes AMOLED<br>\n  <strong>Processor:</strong> MediaTek Dimensity 9400<br>\n  <strong>Camera:</strong> Leica 200MP Professional System<br>\n  <strong>Charging:</strong> 120W HyperCharge (0-100% in 19 mins)<br>\n  <strong>Build:</strong> IP68 Dust/Water Resistant"
+  },
+  {
+    "name": "Dyson Airwrap Multi-styler",
+    "price": 600,
+    "category": "Beauty",
+    "img": "https://mgviplounge.com/cdn/shop/files/AIRWRAP-BLUE-BLUSH_PDP_HERO.png?v=1720527551",
+    "description": "\n  <strong>Technology:</strong> Coanda airflow no heat damage<br>\n  <strong>Attachments:</strong> 6 styling attachments included<br>\n  <strong>Motor:</strong> Dyson V9 digital motor<br>\n  <strong>Control:</strong> Intelligent heat control (measures 40x/sec)<br>\n  <strong>Usage:</strong> Curl, shape, smooth, and hide flyaways"
+  },
+  {
+    "name": "JBL PartyBox 310",
+    "price": 550,
+    "category": "Audio",
+    "img": "https://www.thesoundfactor.com/cdn/shop/products/1-500x500.jpg?v=1626264092",
+    "description": "\n  <strong>Sound:</strong> 240W JBL Pro Sound<br>\n  <strong>Battery:</strong> 18 hours playtime<br>\n  <strong>Light Show:</strong> Dynamic light show synced to beat<br>\n  <strong>Inputs:</strong> Mic and Guitar inputs, USB, Bluetooth<br>\n  <strong>Portability:</strong> Telescopic handle and built-in wheels"
+  },
+  {
+    "name": "MacBook Pro M4",
+    "price": 2500,
+    "category": "Laptops",
+    "img": "images/macbook_pro_m4.png",
+    "description": "\n  <strong>Display:</strong> 14-inch or 16-inch Liquid Retina XDR<br>\n  <strong>Processor:</strong> Apple M4, M4 Pro, or M4 Max chip<br>\n  <strong>Memory:</strong> Up to 128GB unified memory<br>\n  <strong>Storage:</strong> Up to 8TB SSD<br>\n  <strong>Battery:</strong> Up to 24 hours battery life<br>\n  <strong>Camera:</strong> 12MP Center Stage camera"
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "price": 350,
+    "category": "Audio",
+    "img": "images/sony_wh_1000xm5.png",
+    "description": "\n  <strong>Noise Canceling:</strong> Industry-leading noise canceling with two processors<br>\n  <strong>Audio:</strong> High-Resolution Audio wireless<br>\n  <strong>Call Quality:</strong> Industry-leading call quality with four microphones<br>\n  <strong>Battery:</strong> Up to 30-hour battery life<br>\n  <strong>Comfort:</strong> Lightweight design with soft fit leather"
+  },
+  {
+    "name": "iPad Pro M4",
+    "price": 1100,
+    "category": "Tablets",
+    "img": "images/ipad_pro_m4.png",
+    "description": "\n  <strong>Display:</strong> Ultra Retina XDR with Tandem OLED technology<br>\n  <strong>Processor:</strong> Apple M4 chip<br>\n  <strong>Design:</strong> Thinnest Apple product ever<br>\n  <strong>Connectivity:</strong> 5G and Wi-Fi 6E<br>\n  <strong>Accessory:</strong> Works with Apple Pencil Pro and Magic Keyboard"
+  },
+  {
+    "name": "Google Pixel 8 Pro",
+    "price": 999,
+    "category": "Phones",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xJgtqbjSwH9diwDTyxoYkjqKPGyox4_JIA&s",
+      "https://lh3.googleusercontent.com/O6L6L0x-U-zIu-I5Yq-Rz1k9z3J6L6o-M-qM6w-N-x4M6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6w-N-xM6=w1000"
+    ],
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xJgtqbjSwH9diwDTyxoYkjqKPGyox4_JIA&s",
+    "description": "\n    <strong>Display:</strong> 6.7-inch Super Actua LTPO OLED (1-120Hz)<br>\n    <strong>Processor:</strong> Google Tensor G3 coprocessor<br>\n    <strong>Camera:</strong> 50MP Main, 48MP Ultrawide, 48MP Telephoto (5x)<br>\n    <strong>Battery:</strong> 5050 mAh, 24+ hour battery life<br>\n    <strong>AI Features:</strong> Magic Editor, Best Take, Audio Magic Eraser"
+  },
+  {
+    "name": "Nintendo Switch OLED",
+    "price": 350,
+    "category": "Console",
+    "img": "images/nintendo_switch_oled.png",
+    "description": "\n    <strong>Display:</strong> 7-inch OLED screen with vibrant colors<br>\n    <strong>Modes:</strong> TV, Tabletop, and Handheld modes<br>\n    <strong>Storage:</strong> 64 GB internal storage (expandable)<br>\n    <strong>Audio:</strong> Enhanced audio for handheld/tabletop play<br>\n    <strong>Connectivity:</strong> Wired LAN port in dock, Wi-Fi, Bluetooth 4.1"
+  },
+  {
+    "name": "Google Pixel 9 Pro",
+    "price": 999,
+    "category": "Phones",
+    "img": "https://www.dxomark.com/wp-content/uploads/medias/post-176677/Google-Pixel-9-Pro-XL_featured-image-packshot-review.png",
+    "description": "\n    <strong>Display:</strong> 6.3-inch Super Actua LTPO OLED<br>\n    <strong>Processor:</strong> Google Tensor G4 (4nm)<br>\n    <strong>Camera:</strong> 50MP Main, 48MP Ultrawide, 48MP Telephoto (5x)<br>\n    <strong>Battery:</strong> 4700 mAh, 45W wired charging<br>\n    <strong>Features:</strong> Satellite SOS, Gemini Nano AI, 7 years updates"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 1299,
+    "category": "Phones",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcmR8TatM-f6U9B_t_8cGTk2FX9JX0a10x7w&s",
+    "description": "\n    <strong>Display:</strong> 6.8-inch Dynamic AMOLED 2X QHD+ (2600 nits)<br>\n    <strong>Processor:</strong> Snapdragon 8 Gen 3 for Galaxy<br>\n    <strong>Camera:</strong> 200MP Main, 50MP Periscope (5x), 12MP Ultrawide<br>\n    <strong>Frame:</strong> Titanium frame, Gorilla Glass Armor<br>\n    <strong>S Pen:</strong> Integrated S Pen for productivity"
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max",
+    "price": 1199,
+    "category": "Phones",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_I76Agx_ReOGE0moaVE-KIuJJiYWIn2Zcwg&s",
+    "description": "\n    <strong>Display:</strong> 6.9-inch Super Retina XDR OLED (ProMotion)<br>\n    <strong>Processor:</strong> A18 Pro chip (3nm, 6-core GPU)<br>\n    <strong>Camera:</strong> 48MP Fusion, 48MP Ultrawide, 12MP Telephoto (5x)<br>\n    <strong>Battery:</strong> Best battery life ever in an iPhone<br>\n    <strong>Button:</strong> New Camera Control button"
+  },
+  {
+    "name": "Xbox Series X",
+    "price": 499,
+    "category": "Console",
+    "img": "https://cms-assets.xboxservices.com/assets/bc/40/bc40fdf3-85a6-4c36-af92-dca2d36fc7e5.png?n=642227_Hero-Gallery-0_A1_857x676.png",
+    "description": "\n    <strong>Performance:</strong> 12 Teraflops, Custom RDNA 2 GPU<br>\n    <strong>Gaming:</strong> True 4K gaming, up to 120 FPS, 8K HDR Ready<br>\n    <strong>Storage:</strong> 1TB Custom NVMe SSD<br>\n    <strong>Features:</strong> Quick Resume, Velocity Architecture, 3D Spatial Sound"
+  },
+  {
+    "name": "iPad Pro M4 (13-inch)",
+    "price": 1299,
+    "category": "Tablets",
+    "img": "https://www.trikart.com/media/catalog/product/i/p/ipad_pro_2024_space_black_2_6.jpg?width=2500&auto=webp&quality=90",
+    "description": "\n    <strong>Display:</strong> 13-inch Ultra Retina XDR (Tandem OLED)<br>\n    <strong>Processor:</strong> Apple M4 chip (9-core CPU, 10-core GPU)<br>\n    <strong>Dimensions:</strong> 5.1mm thin - Thinnest Apple product ever<br>\n    <strong>Connectivity:</strong> Wi-Fi 6E, Thunderbolt / USB 4<br>\n    <strong>Cameras:</strong> 12MP Wide back, Landscape 12MP Ultra Wide front"
+  },
+  {
+    "name": "Dyson Airwrap i.d. multi-styler",
+    "price": 599,
+    "category": "Beauty",
+    "img": "https://eldorado.am/media/catalog/product/cache/b636eac9f5e866652b5cbe8cee86d97c/_/d/_dyson_hs08_airwrap_id_strawberry_bronze_in_100.jpg",
+    "description": "\n    <strong>Technology:</strong> Coanda airflow styling (no extreme heat)<br>\n    <strong>Smart:</strong> i.d. curl personalized sequencing<br>\n    <strong>Connectivity:</strong> Bluetooth wireless technology<br>\n    <strong>Versatility:</strong> Dry, curl, shape, smooth, and hide flyaways"
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "price": 399,
+    "category": "Audio",
+    "img": "https://vega.am/image/cache/catalog/1HRACH/2020/2021/2024/Noyember/Akanjakal/WH-1000XM5%20(Black)%20(3)-2000x1500.jpg",
+    "description": "\n    <strong>Noise Canceling:</strong> Industry-leading ANC with 8 mics<br>\n    <strong>Sound:</strong> High-Resolution Audio, LDAC support, DSEE Extreme<br>\n    <strong>Calls:</strong> Precise Voice Pickup technology<br>\n    <strong>Battery:</strong> 30 hours (ANC on), 3 min charge = 3 hours play"
+  },
+  {
+    "name": "MacBook Pro M3 (14-inch)",
+    "price": 1599,
+    "category": "Laptops",
+    "img": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mbp14-spaceblack-select-202410_FMT_WHH?wid=986&hei=980&fmt=jpeg&qlt=90&.v=YnlWZDdpMFo0bUpJZnBpZjhKM2M3YnRLQTZRakorT3p3YTRUbVA0N3dnbno1Z1NFZVpQcDI0a3h2dkh0TjNmUjJLTVU0K0hCZXlvVVVTdytIMzZjQXhhU2ZYeWJNaHI5aXZSOWk3dEhoQkx6STlJSlZ4M0pKaFh6c2piamliR2k",
+    "description": "\n    <strong>Display:</strong> 14.2-inch Liquid Retina XDR (1000 nits sustained)<br>\n    <strong>Processor:</strong> Apple M3 chip (8-core CPU, 10-core GPU)<br>\n    <strong>Battery:</strong> Up to 22 hours video playback<br>\n    <strong>Ports:</strong> MagSafe 3, 2x Thunderbolt / USB 4, HDMI, SDXC<br>\n    <strong>Memory:</strong> 8GB Unified Memory, 512GB SSD"
+  },
+  {
+    "name": "Bose QuietComfort Ultra",
+    "price": 429,
+    "category": "Audio",
+    "img": "https://www.yerevanmobile.am/media/catalog/product/cache/07720dad39bc68bc6b838050c0f2e34d/5/1/51nc9eriqtl._ac_sl1500_.jpg",
+    "description": "\n    <strong>Audio:</strong> Spatial Audio with dynamic head tracking<br>\n    <strong>NC:</strong> World-class Active Noise Cancellation<br>\n    <strong>Modes:</strong> Quiet, Aware, and Immersion modes<br>\n    <strong>Battery:</strong> Up to 24 hours (18 with Immersive Audio)<br>\n    <strong>Comfort:</strong> Luxe materials, custom-fit earcups"
+  },
+  {
+    "name": "Motorola Edge 50 Pro",
+    "price": 599,
+    "category": "Phones",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-50-pro.jpg",
+    "description": "\n    <strong>Display:</strong> 6.7-inch 1.5K pOLED (144Hz, 2000 nits)<br>\n    <strong>Charging:</strong> 125W TurboPower, 50W Wireless<br>\n    <strong>Camera:</strong> 50MP Main (f/1.4), 10MP Telephoto (3x), 13MP Ultrawide<br>\n    <strong>Processor:</strong> Snapdragon 7 Gen 3<br>\n    <strong>Build:</strong> IP68 rating, Silicone/Acetate finish"
+  },
+  {
+    "name": "Sony Xperia 1 VI",
+    "price": 1399,
+    "category": "Phones",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-1-vi.jpg",
+    "description": "\n    <strong>Display:</strong> 6.5-inch FHD+ HDR OLED (120Hz)<br>\n    <strong>Camera:</strong> Exmor T sensor, 85-170mm optical zoom<br>\n    <strong>Audio:</strong> 3.5mm jack, Full-stage stereo speakers<br>\n    <strong>Battery:</strong> 5000 mAh, 2-day battery life<br>\n    <strong>Process:</strong> Snapdragon 8 Gen 3"
+  },
+  {
+    "name": "OnePlus 12",
+    "price": 799,
+    "category": "Phones",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-12.jpg",
+    "description": "\n    <strong>Performance:</strong> Snapdragon 8 Gen 3, up to 16GB RAM<br>\n    <strong>Display:</strong> 2K 120Hz ProXDR Display<br>\n    <strong>Camera:</strong> Hasselblad Camera for Mobile (4th Gen)<br>\n    <strong>Battery:</strong> 5400 mAh, 80W SUPERVOOC charging<br>\n    <strong>Cooling:</strong> Dual Cryo-velocity VC"
+  },
+  {
+    "name": "Nokia G42 5G",
+    "price": 249,
+    "category": "Phones",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/nokia-g42-5g.jpg",
+    "description": "\n    <strong>Sustainability:</strong> Repairable design (QuickFix)<br>\n    <strong>Display:</strong> 6.56-inch HD+ 90Hz display<br>\n    <strong>Battery:</strong> 3-day battery life (5000 mAh)<br>\n    <strong>Camera:</strong> 50MP Triple AI Camera<br>\n    <strong>Connectivity:</strong> 5G for fast browsing"
+  },
+  {
+    "name": "Nothing Phone (2)",
+    "price": 599,
+    "category": "Phones",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone2.jpg",
+    "description": "\n    <strong>Design:</strong> Transparent back with Glyph Interface<br>\n    <strong>Processor:</strong> Snapdragon 8+ Gen 1<br>\n    <strong>Display:</strong> 6.7-inch Flexible LTPO OLED<br>\n    <strong>Camera:</strong> Dual 50MP (Main + Ultrawide)<br>\n    <strong>OS:</strong> Nothing OS 2.0 (Android)"
+  },
+  {
+    "name": "iPhone 17 Pro Max",
+    "price": "2500",
+    "category": "Phones",
+    "description": "Storage: 2TB\r\nMemory: 12GB\r\nCamera Modules: 48MP + 48MP + 48MP\r\nFront Camera Module: 24MP\r\nColor: Orange\r\nNetwork: E-sim, Fizical Sim\r\n",
+    "img": "https://www.mobileana.com/wp-content/uploads/2025/06/Apple-iPhone-17-Pro-Max-Cosmic-Orange.webp"
+  }
+]

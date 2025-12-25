@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Phones",
+    "icon": "📱"
+  },
+  {
+    "name": "Console",
+    "icon": "🎮"
+  },
+  {
+    "name": "Audio",
+    "icon": "🎧"
+  },
+  {
+    "name": "Laptops",
+    "icon": "💻"
+  },
+  {
+    "name": "Tablets",
+    "icon": "📱"
+  },
+  {
+    "name": "Beauty",
+    "icon": "💄"
+  }
+]
